@@ -1,6 +1,6 @@
 
-
-print("Hello World")
+# I have majorly improved the code
+print("Hello world")
 
 
 print("A new line")
